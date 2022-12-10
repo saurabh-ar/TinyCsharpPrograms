@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zz6e9jmjSeJXHbXNl9P8G24ahN+66WKAp5Yf9TizdI2KPZdeVAPMejjoIGE6eOIkAyqRHazk5mWrbDiIOJonaw==",
+  "dgSpecHash": "xGbvTeYsRu1hfqtydMtJdxmYoTqQ15wuhvG1YNFuzYH9QkFBJ5VdPx5Gryl6QgKU9l+zR2ZP60OX976XGGm3Yw==",
   "success": true,
-  "projectFilePath": "E:\\.net-training\\basics-of-csharp\\Tiny-CSharp-Progams\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "E:\\.net-training\\basics-of-csharp\\TinyCsharpPrograms\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
