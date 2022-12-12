@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\ref\TakeTwoInputsToAdd.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\bin\Debug\net5.0\TakeTwoInputsToAdd.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\ref\TakeTwoInputsToAdd.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\TakeTwoInputsToAdd\obj\Debug\net5.0\TakeTwoInputsToAdd.genruntimeconfig.cache
