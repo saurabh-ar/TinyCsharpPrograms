@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\ref\LearningTryAndCatch.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\bin\Debug\net5.0\LearningTryAndCatch.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\ref\LearningTryAndCatch.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\LearningTryAndCatch\obj\Debug\net5.0\LearningTryAndCatch.genruntimeconfig.cache
