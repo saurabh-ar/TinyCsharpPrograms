@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\ref\AvgOfStudents.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\bin\Debug\net5.0\AvgOfStudents.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\ref\AvgOfStudents.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Loops\AvgOfStudents\obj\Debug\net5.0\AvgOfStudents.genruntimeconfig.cache
