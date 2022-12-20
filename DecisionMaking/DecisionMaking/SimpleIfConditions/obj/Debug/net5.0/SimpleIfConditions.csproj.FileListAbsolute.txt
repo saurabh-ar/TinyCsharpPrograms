@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\ref\SimpleIfConditions.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\bin\Debug\net5.0\SimpleIfConditions.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\ref\SimpleIfConditions.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\SimpleIfConditions\obj\Debug\net5.0\SimpleIfConditions.genruntimeconfig.cache

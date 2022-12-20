@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\ref\UsingTryParse.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\bin\Debug\net5.0\UsingTryParse.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\ref\UsingTryParse.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\DecisionMaking\UsingTryParse\obj\Debug\net5.0\UsingTryParse.genruntimeconfig.cache
