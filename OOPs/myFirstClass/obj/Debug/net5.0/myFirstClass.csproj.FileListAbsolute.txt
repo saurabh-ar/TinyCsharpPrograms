@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\ref\myFirstClass.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\bin\Debug\net5.0\myFirstClass.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\ref\myFirstClass.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\myFirstClass\obj\Debug\net5.0\myFirstClass.genruntimeconfig.cache
