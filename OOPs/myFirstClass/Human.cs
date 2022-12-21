@@ -9,13 +9,26 @@ namespace myFirstClass
     internal class Human
     {
         //member properties
-        public string name;
+        private string fname;
+        private string lname;
+        private string eyeColor;
         public int age;
 
-        //methods
-        public void speak(string word)
+        //Constructor
+        public Human(string fName, string lName, string eyeColor, int age)
         {
-            Console.WriteLine(word);
+            this.fname = fName;
+            this.lname = lName;
+            this.eyeColor = eyeColor;
+            this.age = age;
+        }
+
+        //member methods
+        public void IntroduceYourself()
+        {
+            Console.WriteLine("Hello there!");
+            Console.WriteLine($"My name is {fname}  {lname}");
+            Console.WriteLine($"My eyecolor is {eyeColor} and I am {age} yrs old. Chao!");
         }
     }
 }

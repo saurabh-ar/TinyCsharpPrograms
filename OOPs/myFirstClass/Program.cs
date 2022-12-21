@@ -6,11 +6,9 @@ namespace myFirstClass
     {
         static void Main(string[] args)
         {
-            Human saurabh = new Human();
-            saurabh.age = 32;
-            saurabh.name = "A R Saurabh";
-
-            saurabh.speak("Hey there, Whats up?");
+            Console.WriteLine("Enter the following details : ");
+            Human saurabh = new Human("A R", "Saurabh", "black", 32);
+            saurabh.IntroduceYourself();
         }
     }
 }
