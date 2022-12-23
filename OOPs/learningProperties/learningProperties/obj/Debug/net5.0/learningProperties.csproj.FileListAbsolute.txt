@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\ref\learningProperties.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\bin\Debug\net5.0\learningProperties.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\ref\learningProperties.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningProperties\learningProperties\obj\Debug\net5.0\learningProperties.genruntimeconfig.cache
