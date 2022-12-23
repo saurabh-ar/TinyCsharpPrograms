@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -51,5 +52,11 @@ namespace learningProperties
             Console.WriteLine($"FrontSurface is :{FrontSurface}");
         }
 
+        // Destructor / Finalizer
+        ~Box()
+        {
+            Console.WriteLine("Destructtion of the Bpx object");
+            Debug.WriteLine("Destructtion of the Box object");
+        }
     }
 }
