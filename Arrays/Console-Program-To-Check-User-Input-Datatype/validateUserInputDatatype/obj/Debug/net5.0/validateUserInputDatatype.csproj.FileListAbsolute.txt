@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\ref\validateUserInputDatatype.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\bin\Debug\net5.0\validateUserInputDatatype.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\ref\validateUserInputDatatype.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\validateUserInputDatatype\obj\Debug\net5.0\validateUserInputDatatype.genruntimeconfig.cache
