@@ -1,4 +1,4 @@
-##User Input Datatype Validation in C Sharp
+# User Input's Datatype Validation in C# (Console App)
 
 Create an application that takes 2 input values.
 
