@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ref\ForEachLoops.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\bin\Debug\net5.0\ForEachLoops.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ref\ForEachLoops.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\OOPs\learningForEach\ForEachLoops\obj\Debug\net5.0\ForEachLoops.genruntimeconfig.cache
