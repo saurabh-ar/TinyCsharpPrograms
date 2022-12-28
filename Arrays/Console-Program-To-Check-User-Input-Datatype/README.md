@@ -1,4 +1,4 @@
-##User Input Datatype Validation in C Sharp
+# User Input's Datatype Validation in C# (Console App)
 
 Create an application that takes 2 input values.
 
@@ -7,10 +7,11 @@ Create an application that takes 2 input values.
 
 It will print to the console the options like below to take input for the 2nd input value:
 
-> Press 1 for String
-> Press 2 for integer
-> Press 3 for Boolean
-    
+> _Press 1 for String_
+>
+> _Press 2 for Integer_ 
+>
+> _Press 3 for Boolean_ 
 
 If the input value for the 2nd input is 1 then the application should check that if the entered 1st input is a valid string or not. Hereby we even want to check, if it is a complete alphabetic entry (so no numbers accepted)
 
