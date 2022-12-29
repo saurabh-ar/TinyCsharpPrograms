@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net-training\\basics-of-csharp\\Tiny-CSharp-Progams\\Arrays\\MultiDimensionalArray\\MultiDimensionalArray.csproj",
+      "projectUniqueName": "E:\\.net-training\\basics-of-csharp\\TinyCsharpPrograms-Github\\Arrays\\MultiDimensionalArray\\MultiDimensionalArray.csproj",
       "projectName": "MultiDimensionalArray",
-      "projectPath": "E:\\.net-training\\basics-of-csharp\\Tiny-CSharp-Progams\\Arrays\\MultiDimensionalArray\\MultiDimensionalArray.csproj",
+      "projectPath": "E:\\.net-training\\basics-of-csharp\\TinyCsharpPrograms-Github\\Arrays\\MultiDimensionalArray\\MultiDimensionalArray.csproj",
       "packagesPath": "C:\\Users\\Saurabh\\.nuget\\packages\\",
-      "outputPath": "E:\\.net-training\\basics-of-csharp\\Tiny-CSharp-Progams\\Arrays\\MultiDimensionalArray\\obj\\",
+      "outputPath": "E:\\.net-training\\basics-of-csharp\\TinyCsharpPrograms-Github\\Arrays\\MultiDimensionalArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
