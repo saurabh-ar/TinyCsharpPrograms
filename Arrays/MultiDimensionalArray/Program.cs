@@ -42,7 +42,7 @@ namespace MultiDimensionalArray
                 }
                 Console.WriteLine("");
             }
-
+            // Printing Array as a matrix form which we cant do with foreach loop
             for (int i = 0; i < threeDArray.GetLength(0); i++)
             {
                 for (int j = 0; j < threeDArray.GetLength(1); j++)
