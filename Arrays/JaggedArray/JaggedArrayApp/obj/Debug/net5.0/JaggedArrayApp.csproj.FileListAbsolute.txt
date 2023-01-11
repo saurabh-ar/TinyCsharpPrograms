@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\ref\JaggedArrayApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\bin\Debug\net5.0\JaggedArrayApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\ref\JaggedArrayApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\JaggedArray\JaggedArrayApp\obj\Debug\net5.0\JaggedArrayApp.genruntimeconfig.cache
