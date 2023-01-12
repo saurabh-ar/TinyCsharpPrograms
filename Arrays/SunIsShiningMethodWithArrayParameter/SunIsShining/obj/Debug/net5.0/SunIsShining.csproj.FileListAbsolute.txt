@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\ref\SunIsShining.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\bin\Debug\net5.0\SunIsShining.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\ref\SunIsShining.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\SunIsShiningMethodWithArrayParameter\SunIsShining\obj\Debug\net5.0\SunIsShining.genruntimeconfig.cache
