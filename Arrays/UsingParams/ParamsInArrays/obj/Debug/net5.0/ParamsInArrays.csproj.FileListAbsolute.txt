@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ref\ParamsInArrays.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\bin\Debug\net5.0\ParamsInArrays.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ref\ParamsInArrays.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\UsingParams\ParamsInArrays\obj\Debug\net5.0\ParamsInArrays.genruntimeconfig.cache
