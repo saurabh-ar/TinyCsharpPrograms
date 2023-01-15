@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\ref\usingArrayLists.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\bin\Debug\net5.0\usingArrayLists.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\ref\usingArrayLists.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\ArrayLists\usingArrayLists\obj\Debug\net5.0\usingArrayLists.genruntimeconfig.cache
