@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\ref\UsingHashtables.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\bin\Debug\net5.0\UsingHashtables.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\ref\UsingHashtables.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Arrays\Hashtables\UsingHashtables\obj\Debug\net5.0\UsingHashtables.genruntimeconfig.cache
