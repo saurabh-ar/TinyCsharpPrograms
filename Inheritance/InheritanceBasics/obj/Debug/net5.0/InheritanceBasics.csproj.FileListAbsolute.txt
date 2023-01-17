@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\ref\InheritanceBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\bin\Debug\net5.0\InheritanceBasics.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\ref\InheritanceBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceBasics\obj\Debug\net5.0\InheritanceBasics.genruntimeconfig.cache
