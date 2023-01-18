@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e2f66ff-bca2-4741-85f3-852c7777cb26": {
+      "ProjectGuid": "2e2f66ff-bca2-4741-85f3-852c7777cb26",
+      "DisplayName": "InheritanceVirtualOverrideBasics",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

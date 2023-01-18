@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\ref\InheritanceVirtualOverrideBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\bin\Debug\net5.0\InheritanceVirtualOverrideBasics.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\ref\InheritanceVirtualOverrideBasics.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\InheritanceVirtualOverrideBasics\obj\Debug\net5.0\InheritanceVirtualOverrideBasics.genruntimeconfig.cache
