@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ref\ImageVideoPostApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\bin\Debug\net5.0\ImageVideoPostApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ref\ImageVideoPostApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Inheritance\ImageVideoPostApp\obj\Debug\net5.0\ImageVideoPostApp.genruntimeconfig.cache
