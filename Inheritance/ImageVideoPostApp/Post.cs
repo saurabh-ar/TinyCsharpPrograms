@@ -50,7 +50,7 @@ namespace ImageVideoPostApp
         }
         public override string ToString()
         {
-            return ($"{this.ID} : {this.Title}, Sent By : {this.SendByUsername}, URL : , ");
+            return $"{this.ID} : {this.Title}, Sent By : {this.SendByUsername}";
         }
     }
 }
