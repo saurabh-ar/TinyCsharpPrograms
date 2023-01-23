@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\ref\FirstPolymorphismApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\bin\Debug\net5.0\FirstPolymorphismApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\ref\FirstPolymorphismApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\FirstPolymorphismApp\obj\Debug\net5.0\FirstPolymorphismApp.genruntimeconfig.cache
