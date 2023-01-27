@@ -1,0 +1,16 @@
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.exe
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.deps.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.runtimeconfig.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.runtimeconfig.dev.json
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\ref\AbstractClassApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\bin\Debug\net5.0\AbstractClassApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.csproj.AssemblyReference.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.AssemblyInfoInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.AssemblyInfo.cs
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.csproj.CoreCompileInputs.cache
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\ref\AbstractClassApp.dll
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.pdb
+E:\.net-training\basics-of-csharp\Tiny-CSharp-Progams\Polymorphism\AbstractClass\AbstractClassApp\obj\Debug\net5.0\AbstractClassApp.genruntimeconfig.cache
